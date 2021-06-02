@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.modal {
+  background: rgba(0, 0, 0, 0.6);
+}
+.modal-container {
+  background-image: url("https://lh3.googleusercontent.com/KmjXf8xOwJkJH-1DbBfMcsvg2NP4G_XDLFmU55puKAnHGKv5T8tnBkAC2KJDCBCvpQuFGpoMTu8J9ERh1nYYv6lsfpKDOi7llHHuN_Y5fpbX54TkqyCeQ1-fLEXDsVyAZ_LkVQW558yayssvvPY_tBLIZ4tVa259shqoR0HbXHxuaS5A_KcqyXPJKcifcU4eGxZZdq5nYOekC8UMrYmtN8GSBwBMCJDRJgfJggwPfijTr7V33uDn8c5i7p7-yDIr-CdcOIeb77djozy7tYtvGZ9aIHZizpz3DayIYxqd72wi93ZCqqNOXWNRRRP_nDnQ3Ae5dUSLcUc1xOUDxFP-rhTs1xBiCTqyzcFfAjcn-HmD2qA7HUemO3t3oPZ6_MQFE_q8OaW18naTBIzJDPBT2OJ6U3RdMV-llLtG3HkMtcmYs9U3WqGsuwLMdJ-X9f_tedoHCqZGFhrAm1lP18kHpL9H6u6GgPm2-UBihkr2pgnkTlttt2d5GQqYN0-5HMaIAkLC7cHvZjRX8LuLqOnemHEZwrboD1XJMiFe3WFM8UM0yZfUmdvavX1oXdGb450lPpTtfgdI2y5R0PhuiSujPyalVzZpYQAJvhQV1WCoihsBVUa6Bg5QD6EkOYeqFMXb4CX1g0a3YTDQnNxtQq-xFWbIqrB3S_bg43M5_YsLc7ROcIPr_mEf45A2TS8B9riQQD7lllr5aE8LGW3ZvunQMO0=w651-h485-no?authuser=0");
+  background-size: 600px;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 60%;
+  height: 400px;
+  left: 25%;
+  top: 30%;
+  padding-top: 20%;
+ 
+
+ 
+
+ 
+}
+
+
+body {
+  background-image: url("https://lh3.googleusercontent.com/qZwXpiqSeGT0JlfXGHxobUI4IJE3pc6X5uOoXmIawp2lRG7_KhUrbxHjuAOO-p6vgVctyJ1M2SMHY_V5b-SwfxLsnlcr7FigGX6k4qIinSiacj9pwUxOUD2oHB1Orw1XcJTlzEkgIGcXPgzr8Kolill0hbuDniE7rBZNkqA67DqHbWcnQYQURovSAxk9ytVULkMm4ZYCuy-XlfzgUWPkN7S4IgGT5ilZNR4iJIDW9uCz_VWq5L2b6RMXd_tbVGb2LnaXFTNfPkg2dJMqm826HTcWllldXFS-gvCickJpzGNACvhRni9eEevUlwn3LlOyC33SD48ZKTTpX5uCGjU2_hGnS4gLlD8-LZe4E9uXqw3i91E9vGCCGvxTTcWZXwnYsXxvINCunV57w4bSaS28_JoJgR55E_oabYb2PDk8NPprFQMS82_6wDM2fuKLHA706aJ1R2zposjKnfUPvmAjXNpqVq1gFVLsCeSyg_lOoLu0wM8gu4wGSn8qwcsAZ-EfUpHoL7j5snEMVWlDgOcH9PnPqgU0GNd7jhsqEwWQQKC5UN4gcw9oXZrXJ8dy_EFPQO4OjPM_RS4QPDGpRMGyLvyHXPYxtCTS7Jq3rOOEFQ7IdCAc7w_byGahCi_nJciB5bKrPAIVWevjIefnIHC4ed0bQSq8bcLIFbdrX12UNdfXha3bG3VJiZlxwdGIC7IOX5aGgt32j1SLBLU35zqHdM8=w837-h625-no?authuser=0");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #434343ff;
+}
+
+.btn {
+  position: absolute;
+  bottom: 13%;
+  left: 40%;
+  width:200px;
+  height: 120px;
+   transform: rotate(13deg);
+}
